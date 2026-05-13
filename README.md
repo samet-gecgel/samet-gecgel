@@ -145,12 +145,18 @@ const samet = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samet-gecgel&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samet-gecgel&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Top Languages" />
+  <a href="https://github.com/samet-gecgel" target="_blank">
+    <img src="https://github-readme-stats-flax-nine-38.vercel.app/api?username=samet-gecgel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/samet-gecgel" target="_blank">
+    <img src="https://github-readme-stats-flax-nine-38.vercel.app/api/top-langs/?username=samet-gecgel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samet-gecgel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=samet-gecgel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
