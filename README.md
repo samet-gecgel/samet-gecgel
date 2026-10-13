@@ -10,13 +10,13 @@
   <a href="https://linkedin.com/in/sametgecgel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sametgecgel.site" target="_blank">
+  <a href="https://sametgecgel.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://sametgecgel.site/blog" target="_blank">
+  <a href="https://sametgecgel.com/blog" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
-  <a href="https://sametgecgel.site/cv" target="_blank">
+  <a href="https://sametgecgel.com/cv" target="_blank">
     <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="mailto:bensametgecgel@gmail.com" target="_blank">
